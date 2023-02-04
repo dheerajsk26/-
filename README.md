@@ -2,7 +2,7 @@
 
 ## This project consists monthly sales data (from January 2020 to July 2021) of Maven Toys, a fictional small toy store chain in the US. I prepared a monthly dashboard for the company’s Regional Sales Managers. 
 
-## In this dashboard we can filter by region, track monthly revenue trends and see YoY performance. We can also compare performance across stores, and identify which specific products drove the biggest gains & losses. 
+### In this dashboard we can filter by region, track monthly revenue trends and see YoY performance. We can also compare performance across stores, and identify which specific products drove the biggest gains & losses. 
 
 ### Excel concepts covered are:- 
 * Top N Formulas
