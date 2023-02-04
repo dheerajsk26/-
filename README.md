@@ -14,3 +14,9 @@
 * Experiment with chart elements and layouts
 * Usage of colour and style strategically
 * Formatting options 
+
+
+
+https://user-images.githubusercontent.com/77773902/216793604-d5c771f2-f659-46ae-811d-54585c4eb0aa.mp4
+
+
