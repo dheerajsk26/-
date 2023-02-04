@@ -13,6 +13,4 @@
 * Conditional Formatting
 * Experiment with chart elements and layouts
 * Usage of colour and style strategically
-* Formatting options
-
-
+* Formatting options 
